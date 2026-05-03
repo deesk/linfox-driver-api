@@ -1,0 +1,56 @@
+[
+    {
+        "driver_id": "D001",
+        "full_name": "James Thornton",
+        "licence_class": "MC",
+        "licence_expiry": "2027-03-15",
+        "shift_type": "night",
+        "roster_pattern": "fixed",
+        "is_active": true
+    },
+    {
+        "driver_id": "D002",
+        "full_name": "Michael Nguyen",
+        "licence_class": "HC",
+        "licence_expiry": "2026-08-22",
+        "shift_type": "day",
+        "roster_pattern": "rotating",
+        "is_active": true
+    },
+    {
+        "driver_id": "D003",
+        "full_name": "Brett Callahan",
+        "licence_class": "HR",
+        "licence_expiry": "2025-11-30",
+        "shift_type": "afternoon",
+        "roster_pattern": "on_call",
+        "is_active": true
+    },
+    {
+        "driver_id": "D004",
+        "full_name": "Sharon Kowalski",
+        "licence_class": "HC",
+        "licence_expiry": "2028-01-10",
+        "shift_type": "day",
+        "roster_pattern": "fixed",
+        "is_active": true
+    },
+    {
+        "driver_id": "D005",
+        "full_name": "Raj Pillai",
+        "licence_class": "MC",
+        "licence_expiry": "2026-06-05",
+        "shift_type": "night",
+        "roster_pattern": "rotating",
+        "is_active": false
+    },
+    {
+        "driver_id": "D006",
+        "full_name": "Mark Phill",
+        "licence_class": "HR",
+        "licence_expiry": "2027-05-03",
+        "shift_type": "day",
+        "roster_pattern": "fixed",
+        "is_active": false
+    }
+]
